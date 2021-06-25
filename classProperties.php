@@ -24,5 +24,6 @@
     echo "First Name: " .$student2->first_name. "<br>";
     echo "Last Name: " .$student2->last_name. "<br>";
     echo "Employment Status: " .$student2->employed. "<br>";
+
     
 ?>
